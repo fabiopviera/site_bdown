@@ -13,9 +13,9 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
 [params]
     author = "Nate Day"
     description = "An easy reading Hugo blog with night-mode."
-    logo = "favicon/android-chrome-192x192.png"
+    logo = "favicon/IMG_20200825_131313.png"
     twitterAuthor = "@natedayta"
-    githubUsername = "nathancday"
+    githubUsername = "fabiopviera"
     accent = "#386890" # dark colors do best
     backgroundColor = "#f5f5f5"
     font = "Mina" # should match the name on Google Fonts!
@@ -49,12 +49,12 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
 # The list of available icons can be found at http://fontawesome.io/icons/
 
 [[menu.icon]]
-    url = "mailto:nathancday@gmail.com"
+    url = "fabiopviera828@gmail.com"
     name = "far fa-envelope"
     weight = 1
 
 [[menu.icon]]
-    url = "https://github.com/NathanCDay"
+    url = "https://github.com/fabiopviera"
     name = "fab fa-github"
     weight = 2
 
@@ -64,7 +64,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
     weight = 3
 
 [[menu.icon]]
-    url = "https://www.linkedin.com/in/nathan-day-59b48435/"
+    url = "https://www.linkedin.com/in/f%C3%A1bio-prataviera-495720116/"
     name = "fab fa-linkedin"
     weight = 4
 
