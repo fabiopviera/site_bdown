@@ -1,5 +1,5 @@
 #baseURL = "/"
-baseURL = "https://fabioprataviera.netlify.app/"
+baseURL = "/"
 languageCode = "en-us"
 title = "Fábio Prataviera"
 description = ""
@@ -14,7 +14,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
 [params]
     author = "Fábio Prataviera"
     description = "I am an independent researcher in Statistics and Data Sciences. I have a BSc in statistics from Federal University of São Carlos, and a MSc and a PhD in statistics from University of São Paulo - ESALQ/USP."
-     logo = "favicon/IMG_20200825_131313.png"
+    logo = "favicon/IMG_20200825_131313.png"
     twitterAuthor = "@Prataviera2020"
     githubUsername = "fabiopviera"
     accent = "#386890" # dark colors do best
@@ -23,8 +23,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
     highlight = true
     highlightStyle = "lakeside-light" # make this match accent
     highlightLanguages = ["r", "bash", "go"]
-[[params]]
-    description = "my"
+
    
 # adjust these as you see fit
 [[menu.main]]
