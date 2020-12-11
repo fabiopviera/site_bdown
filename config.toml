@@ -13,7 +13,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
 
 [params]
     author = "Nate Day"
-    description = "An easy reading Hugo blog with night-mode."
+    description = "description."
     logo = "favicon/IMG_20200825_131313.png"
     twitterAuthor = "@Prataviera2020"
     githubUsername = "fabiopviera"
@@ -73,3 +73,13 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
     url = "https://scholar.google.com.br/citations?user=bQ9UhREAAAAJ&hl=pt-BR"
     name = "fab fa-google"
     weight = 5
+    
+    
+[[menu.icon]]
+    url = "https://www.researchgate.net/"
+    name = "fab fa-researchgate"
+    weight = 6
+
+
+
+
