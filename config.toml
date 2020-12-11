@@ -2,7 +2,7 @@
 baseURL = "/"
 languageCode = "en-us"
 title = "Fábio Prataviera"
-description = ""
+description = "An easy reading Hugo blog with night-mode."
 theme = "min_night"
 disqusShortname = ""
 googleAnalytics = ""
@@ -10,6 +10,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
 
 [permalinks]
     post = "/:year/:month/:day/:slug/"
+
 
 [params]
     author = "Fábio Prataviera"
