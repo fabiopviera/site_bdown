@@ -2,7 +2,7 @@
 baseURL = "/"
 languageCode = "en-us"
 title = "Fábio Prataviera"
-description = "An easy reading Hugo blog with night-mode."
+description = "Fábio Prataviera"
 theme = "min_night"
 disqusShortname = ""
 googleAnalytics = ""
