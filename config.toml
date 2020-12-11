@@ -1,4 +1,5 @@
-baseURL = "/"
+#baseURL = "/"
+baseURL = "https://fabioprataviera.netlify.app/"
 languageCode = "en-us"
 title = "Fábio Prataviera"
 description = "An easy reading Hugo blog with night-mode."
