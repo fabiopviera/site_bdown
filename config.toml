@@ -50,7 +50,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
 # The list of available icons can be found at http://fontawesome.io/icons/
 
 [[menu.icon]]
-    url = "https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=new"
+    url = "mailto:fabioprataviera828@gmail.com"
     name = "far fa-envelope"
     weight = 1
 
