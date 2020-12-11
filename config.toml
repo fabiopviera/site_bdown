@@ -15,7 +15,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
     author = "Nate Day"
     description = "An easy reading Hugo blog with night-mode."
     logo = "favicon/IMG_20200825_131313.png"
-    twitterAuthor = "@natedayta"
+    twitterAuthor = "@Prataviera2020"
     githubUsername = "fabiopviera"
     accent = "#386890" # dark colors do best
     backgroundColor = "#f5f5f5"
@@ -50,7 +50,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
 # The list of available icons can be found at http://fontawesome.io/icons/
 
 [[menu.icon]]
-    url = "fabiopviera828@gmail.com"
+    url = "https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=new"
     name = "far fa-envelope"
     weight = 1
 
@@ -60,8 +60,8 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
     weight = 2
 
 [[menu.icon]]
-    url = "https://twitter.com/natedayta/"
-    name = "fab fa-twitter"
+    url = "http://lattes.cnpq.br/3225385085167748"
+    name = "fab far fa-address-book"
     weight = 3
 
 [[menu.icon]]
@@ -70,6 +70,6 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
     weight = 4
 
 [[menu.icon]]
-    url = "https://www.stackoverflow.com/users/5878751/nate"
-    name = "fab fa-stack-overflow"
+    url = "https://scholar.google.com.br/citations?user=bQ9UhREAAAAJ&hl=pt-BR"
+    name = "fab fa-google"
     weight = 5
