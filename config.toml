@@ -2,7 +2,7 @@
 baseURL = "https://fabioprataviera.netlify.app/"
 languageCode = "en-us"
 title = "Fábio Prataviera"
-description = "An easy reading Hugo blog with night-mode."
+description = ""
 theme = "min_night"
 disqusShortname = ""
 googleAnalytics = ""
@@ -12,9 +12,9 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
     post = "/:year/:month/:day/:slug/"
 
 [params]
-    author = "Nate Day"
-    description = "description."
-    logo = "favicon/IMG_20200825_131313.png"
+    author = "Fábio Prataviera"
+    description = "I am an independent researcher in Statistics and Data Sciences. I have a BSc in statistics from Federal University of São Carlos, and a MSc and a PhD in statistics from University of São Paulo - ESALQ/USP."
+     logo = "favicon/IMG_20200825_131313.png"
     twitterAuthor = "@Prataviera2020"
     githubUsername = "fabiopviera"
     accent = "#386890" # dark colors do best
@@ -23,7 +23,9 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
     highlight = true
     highlightStyle = "lakeside-light" # make this match accent
     highlightLanguages = ["r", "bash", "go"]
-
+[[params]]
+    description = "my"
+   
 # adjust these as you see fit
 [[menu.main]]
     url = "/"
@@ -76,7 +78,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
     
     
 [[menu.icon]]
-    url = "https://www.researchgate.net/"
+    url = "https://www.researchgate.net/profile/Fabio_Prataviera"
     name = "fab fa-researchgate"
     weight = 6
 
