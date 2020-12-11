@@ -1,7 +1,7 @@
 #baseURL = "/"
 baseURL = "https://fabioprataviera.netlify.app/"
 languageCode = "en-us"
-title = "Fábio Pratavier"
+title = "Fábio Prataviera"
 description = "An easy reading Hugo blog with night-mode."
 theme = "min_night"
 disqusShortname = ""
