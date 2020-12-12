@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "Project"
 author: "Fábio Prataviera"
 date: "12/12/2020"
 output:
@@ -25,7 +25,7 @@ summary(cars)
 
 You can also embed plots, for example:
 
-```{r pressure, echo=T}
+```{r pressure, echo=FALSE}
 plot(pressure)
 ```
 
