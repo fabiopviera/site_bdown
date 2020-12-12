@@ -1,8 +1,6 @@
 ---
 title: "Publications"
 date: 2020-12-31 
-tags:
-- 2020
 draft: false
 ---
 
