@@ -1,9 +1,7 @@
 ---
 title: "Project"
 author: "Fábio Prataviera"
-date: "12/12/2020"
 output:
-  pdf_document: default
   html_document: default
 ---
 
