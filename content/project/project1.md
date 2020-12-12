@@ -2,7 +2,9 @@
 title: "Untitled"
 author: "Fábio Prataviera"
 date: "12/12/2020"
-output: html_document
+output:
+  pdf_document: default
+  html_document: default
 ---
 
 ```{r setup, include=FALSE}
@@ -23,7 +25,7 @@ summary(cars)
 
 You can also embed plots, for example:
 
-```{r pressure, echo=FALSE}
+```{r pressure, echo=T}
 plot(pressure)
 ```
 
