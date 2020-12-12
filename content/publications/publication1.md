@@ -1,8 +1,11 @@
 ---
+date: "2020-12-12"
+description: Summary of the post
+draft: false
 title: "Publications"
 author: Fábio Prataviera
-date: '2020-12-25'
 ---
+
 
 
 * NOGUEIRA, M. C. J. A.; ARAUJO, V. A.; VASCONCELOS, J. S.; CRUZ, J. N.; VASCONCELOS, J. C. S.; PRATAVIERA, F.; CHRISTOFORO, A. L.; LAHR, F. A. R.. **Characterization of Eucalyptus maidenii Timber for Structural Application: Physical and Mechanical Properties at Two Moisture Conditions**. South-east European forestry, v. 9, p. 141-146, 2018. [[pdf](https://www.seefor.eu/vol-9-no-2-nogueira-et-al-characterization-of-eucalyptus-maidenii-timber.html)]
