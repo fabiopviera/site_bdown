@@ -1,9 +1,5 @@
 ---
-title: "Project"
-author: "Fábio Prataviera"
-output:
-  pdf_document: default
-  html_document: default
+title: "Publications"
 ---
 
 
