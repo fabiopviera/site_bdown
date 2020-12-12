@@ -1,8 +1,8 @@
 ---
-date: "2019-12-31"
+date: "2018-12-31"
 description: Articles published in peer-reviewed journals
 draft: false
-title: "Publications 2019"
+title: "Publications 2018"
 author: Fábio Prataviera
 ---
 
