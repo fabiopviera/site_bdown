@@ -1,9 +1,7 @@
 ---
 title: "Publications"
-author: "Fábio Prataviera"
-date: "2020-12-31"
+date: 2020-12-31
 output:
-  pdf_document: default
   html_document: default
 ---
 
