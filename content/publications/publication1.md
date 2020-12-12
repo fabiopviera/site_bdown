@@ -1,6 +1,7 @@
 ---
 title: "Publications"
-date: "2020/12/25"
+author: Fábio Prataviera
+date: '2020-12-25'
 ---
 
 

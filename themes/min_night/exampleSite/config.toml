@@ -6,7 +6,7 @@ description = "Fábio Prataviera"
 theme = "min_night"
 disqusShortname = ""
 googleAnalytics = ""
-ignoreFiles = [ "\\.Rmarkdown$", "public/"]
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
 
 [permalinks]
     post = "/:year/:month/:day/:slug/"
